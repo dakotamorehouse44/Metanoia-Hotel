@@ -1,0 +1,40 @@
+body {
+	font-family: 'Noto Serif', serif;
+}
+
+.logo {
+	width: 15%;
+
+}
+
+.top-bar {
+  background-color: #FFEB3B;
+
+}
+
+.splash {
+	text-align: center;
+}
+
+.Features {
+ color: grey;
+
+}
+
+.groovyevents {
+	color: grey;
+}
+
+.groovy {
+	text-align: center;
+}
+
+.contact {
+	background-color: #FFEB3B;
+
+}
+
+	
+
+
+
